@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+recommendation_titanic/feature_store.db
+recommendation_titanic/logs/
+recommendation_titanic/models/
+recommendation_titanic/data/raw/
+recommendation_titanic/data/processed/
